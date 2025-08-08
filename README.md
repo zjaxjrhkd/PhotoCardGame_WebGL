@@ -12,7 +12,7 @@
 > **Original by Creatorbus Inc.**
 
 ### 🔗 원본 링크
-- [공식 홈페이지](https://creatorbus.com)
+- [공식 홈페이지](https://creatorbus.net)
 - [공식 팬카페](https://cafe.naver.com/vlup)
 
 > ※ 리소스는 임의 편집·훼손 없이 사용되었으며, 캐릭터나 멤버 이미지가 비방적·부적절한 맥락으로 사용되지 않았습니다.
