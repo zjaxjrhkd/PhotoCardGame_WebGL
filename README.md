@@ -52,12 +52,6 @@
 - 🎵 **곡 제목**: `Esper's Secret Meeting`  
   - [원곡 링크](https://www.youtube.com/watch?v=XMpUfiuJCsE)
  
-- 🎵 **곡 제목**: `Esper's Secret Meeting`  
-  - [원곡 링크](https://www.youtube.com/watch?v=XMpUfiuJCsE)
-
- - 🎵 **곡 제목**: `Esper's Secret Meeting`  
-  - [원곡 링크](https://www.youtube.com/watch?v=XMpUfiuJCsE)
-
 - 🎵 **곡 제목**: `Noi's Music`  
   - [원곡 링크](https://www.youtube.com/@noi_vlup/videos)
  
