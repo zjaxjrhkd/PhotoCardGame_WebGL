@@ -28,6 +28,9 @@
 - 🎵 **곡 제목**: `러브레터(Love Letter) - V-LUP`  
   - [원곡 링크](https://www.youtube.com/watch?v=-5M0qjf1Wrg)
 
+- 🎵 **곡 제목**: `영원 ⭐️ 3살 고양이 (Eternal ⭐️ 3yo cat) - Lee jooin`  
+  - [원곡 링크](https://www.youtube.com/watch?v=zL1LCurgNag)
+
 - 🎵 **곡 제목**: `Stardust - Daystar`  
   - [원곡 링크](https://www.youtube.com/watch?v=Jhr-Zs9SKjM)
 
@@ -52,11 +55,11 @@
 - 🎵 **곡 제목**: `Esper's Secret Meeting`  
   - [원곡 링크](https://www.youtube.com/watch?v=XMpUfiuJCsE)
  
-- 🎵 **곡 제목**: `Noi's Music`  
-  - [원곡 링크](https://www.youtube.com/@noi_vlup/videos)
+- 🎵 **곡 제목**: `Noi's Theme`  
+  - [원곡 링크](https://vod.sooplive.co.kr/player/161925819?change_second=43)
  
-- 🎵 **곡 제목**: `Iana's Music`  
-  - [원곡 링크](https://www.youtube.com/@iana_vlup)
+- 🎵 **곡 제목**: `Iana's Theme`  
+  - [원곡 링크](https://vod.sooplive.co.kr/player/144986537?change_second=9)
 
 
 
