@@ -28,6 +28,9 @@
 - 🎵 **곡 제목**: `러브레터(Love Letter) - V-LUP`  
   - [원곡 링크](https://www.youtube.com/watch?v=-5M0qjf1Wrg)
 
+- 🎵 **곡 제목**: `영원 ⭐️ 3살 고양이 (Eternal ⭐️ 3yo cat) - Lee jooin`  
+  - [원곡 링크](https://www.youtube.com/watch?v=dSeUDUzR-QY&list=RDdSeUDUzR-QY&)
+
 - 🎵 **곡 제목**: `Stardust - Daystar`  
   - [원곡 링크](https://www.youtube.com/watch?v=Jhr-Zs9SKjM)
 
