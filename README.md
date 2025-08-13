@@ -52,11 +52,11 @@
 - 🎵 **곡 제목**: `Esper's Secret Meeting`  
   - [원곡 링크](https://www.youtube.com/watch?v=XMpUfiuJCsE)
  
-- 🎵 **곡 제목**: `Noi's Music`  
-  - [원곡 링크](https://www.youtube.com/@noi_vlup/videos)
+- 🎵 **곡 제목**: `Noi's Theme`  
+  - [원곡 링크](https://vod.sooplive.co.kr/player/161925819?change_second=43)
  
-- 🎵 **곡 제목**: `Iana's Music`  
-  - [원곡 링크](https://www.youtube.com/@iana_vlup)
+- 🎵 **곡 제목**: `Iana's Theme`  
+  - [원곡 링크](https://vod.sooplive.co.kr/player/144986537?change_second=9)
 
 
 
